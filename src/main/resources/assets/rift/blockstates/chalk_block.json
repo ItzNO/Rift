@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rift:block/chalk_block"
+    }
+  }
+}
